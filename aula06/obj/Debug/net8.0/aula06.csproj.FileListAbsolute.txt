@@ -1,0 +1,15 @@
+/workspaces/AulaDesenvolvimento/aula06/obj/Debug/net8.0/aula06.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/AulaDesenvolvimento/aula06/obj/Debug/net8.0/aula06.AssemblyInfoInputs.cache
+/workspaces/AulaDesenvolvimento/aula06/obj/Debug/net8.0/aula06.AssemblyInfo.cs
+/workspaces/AulaDesenvolvimento/aula06/obj/Debug/net8.0/aula06.csproj.CoreCompileInputs.cache
+/workspaces/AulaDesenvolvimento/aula06/obj/Debug/net8.0/aula06.sourcelink.json
+/workspaces/AulaDesenvolvimento/aula06/bin/Debug/net8.0/aula06
+/workspaces/AulaDesenvolvimento/aula06/bin/Debug/net8.0/aula06.deps.json
+/workspaces/AulaDesenvolvimento/aula06/bin/Debug/net8.0/aula06.runtimeconfig.json
+/workspaces/AulaDesenvolvimento/aula06/bin/Debug/net8.0/aula06.dll
+/workspaces/AulaDesenvolvimento/aula06/bin/Debug/net8.0/aula06.pdb
+/workspaces/AulaDesenvolvimento/aula06/obj/Debug/net8.0/aula06.dll
+/workspaces/AulaDesenvolvimento/aula06/obj/Debug/net8.0/refint/aula06.dll
+/workspaces/AulaDesenvolvimento/aula06/obj/Debug/net8.0/aula06.pdb
+/workspaces/AulaDesenvolvimento/aula06/obj/Debug/net8.0/aula06.genruntimeconfig.cache
+/workspaces/AulaDesenvolvimento/aula06/obj/Debug/net8.0/ref/aula06.dll
